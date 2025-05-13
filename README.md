@@ -11,7 +11,7 @@
 
 <div>
 
-- 🎓 Currently a Phd candidate in Innovation, Marketing and Business @ <a href="https://www.cut.ac.cy/"> Technological University of Cyprus </a>
+
 
 - 🎓 MBA degree @ <a href="https://www.nup.ac.cy/gr/?brand_gr&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZds0Lx-fiU4NmyBhZasmAgcXgTpZyMJoUf42qu_UVHtNXih_TgWORoChhUQAvD_BwE"> University Neapolis Pafos </a>
  
